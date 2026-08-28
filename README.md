@@ -1,22 +1,9 @@
-# realm-taxonomy-discoveries-2026-08-21
+# Historical public research record — disclosure review
 
-Realm Taxonomy application session — 2026-08-21.
+This repository contains an AI-assisted research-session record that was previously made public.
 
-**Human direction/publication:** Haley Bird  
-**AI collaboration:** autonomous Grok-agent workflow, as recorded for this session.
+The current default branch has been intentionally minimized while disclosure and protection strategy are reviewed. Detailed material from earlier public commits remains part of the historical public record; this change does **not** undo or retract prior disclosure.
 
-## Scope
+No current statement here should be treated as proof of novelty, scientific validation, peer review, patentability, filing status, patent-pending status, or legal priority.
 
-This repository preserves an AI-assisted meta-synthesis session exploring candidate cross-realm structural patterns and hypotheses.
-
-## Evidence boundary
-
-- **“Adversarial-vetted” refers to an internal review method, not external peer review.**
-- **“Zero-hallucination” is historical workflow language, not a guarantee that every output is correct.**
-- Candidate novelties remain hypotheses or research claims until supported by source-complete literature review and independent evaluation.
-- AI contribution, human contribution, authorship, inventorship, and protectability are distinct questions and should be evaluated from the underlying contribution evidence where relevant.
-- Git timestamps preserve repository chronology/public disclosure; they do not independently establish filing status, patent priority, or scientific validation.
-
-## Intended use
-
-Treat this repository as a research-session and provenance record.
+Historical commits are preserved for provenance and future review. No additional detailed research or enabling mechanics should be added to the public branch without an explicit disclosure decision.
